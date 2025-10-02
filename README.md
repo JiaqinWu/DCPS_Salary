@@ -1,2 +1,2 @@
 # DCPS Salary Dashboard
-Access the dashboard [here](dcpssalary.streamlit.app)
+Access the dashboard [here](http://dcpssalary.streamlit.app)
